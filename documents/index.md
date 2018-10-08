@@ -6,10 +6,8 @@ lecture 1
  * [exercize](attached/exercize1.pdf)  
  * [additional](attached/additional1.pdf)  
 
-<!--
 lecture 2
-* [lecture](lecture2.pdf)  
--->
+* [lecture](attached/lecture2.pdf)  
   
 ---
   
