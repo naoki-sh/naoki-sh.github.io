@@ -7,7 +7,6 @@ lecture 1
  * [additional](attached/additional1.pdf)  
 
 lecture 2
-* [lecture](attached/lecture2.pdf)  
   
 ---
   
