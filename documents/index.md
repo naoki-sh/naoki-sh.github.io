@@ -8,6 +8,9 @@ lecture 1
 
 lecture 2  
 * [lecture](attached/lecture2.pdf)  
+
+lecture 3  
+* [lecture](attached/lecture3.pdf)  
   
 ---
   
