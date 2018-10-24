@@ -12,6 +12,9 @@ lecture 2
 lecture 3  
 * [lecture](attached/lecture3.pdf)  
   
+lecture 4  
+* [lecture](attached/lecture4.pdf)  
+  
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
