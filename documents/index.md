@@ -18,6 +18,14 @@ lecture 4
 lecture 5  
 * [lecture](attached/lecture5.pdf)  
   
+lecture 6  
+* [lecture](attached/lecture6.pdf)  
+  
+lecture 7  
+* [授業資料](attached/lecture7.pdf)  
+ * [第六回の練習問題](attached/answer7.pdf)  
+ * [電気回路の総復習プリント](attached/review7.pdf)  
+  
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
