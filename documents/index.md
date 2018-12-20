@@ -26,6 +26,12 @@ lecture 7
  * [第六回の練習問題](attached/answer7.pdf)  
  * [電気回路の総復習プリント](attached/review7.pdf)  
   
+misc.  
+* [冬休みプリント 練習問題まとめ](attached/exercize.pdf)  
+ * [冬休みプリント 練習問題まとめ 解答](attached/exercize_ans.pdf)  
+* [冬休みプリント 国家試験形式問題](attached/winter_vac.pdf)  
+ * [冬休みプリント 国家試験形式問題解答](attached/winter_vac_ans.pdf)  
+  
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
