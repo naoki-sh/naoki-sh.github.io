@@ -26,6 +26,24 @@ lecture 7
  * [第六回の練習問題](attached/answer7.pdf)  
  * [電気回路の総復習プリント](attached/review7.pdf)  
   
+lecture 8  
+* [lecture](attached/lecture8.pdf)  
+  
+lecture 9  
+* [lecture](attached/lecture9.pdf)  
+  
+lecture 10  
+* [lecture](attached/lecture10.pdf)  
+  
+lecture 11  
+* [lecture](attached/lecture11.pdf)  
+  
+lecture 12  
+* [lecture](attached/lecture12.pdf)  
+  
+lecture 13  
+* [lecture](attached/lecture13.pdf)  
+  
 misc.  
 * [冬休みプリント 練習問題まとめ](attached/exercize.pdf)  
  * [冬休みプリント 練習問題まとめ 解答](attached/exercize_ans.pdf)  
