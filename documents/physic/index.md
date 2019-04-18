@@ -4,6 +4,9 @@
 第1回  
 * [授業資料](attached/physic2019lecture1.pdf)  
   
+第2回  
+* [授業資料](attached/physic2019lecture2.pdf)  
+  
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
