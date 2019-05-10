@@ -3,9 +3,11 @@
 
 第1回  
 * [授業資料](attached/physic2019lecture1.pdf)  
+* [追加資料（右ねじの法則，フレミングの左手の法則使い方）](attached/physic2019lecture1_appendix.pdf)  
   
 第2回  
 * [授業資料](attached/physic2019lecture2.pdf)  
+* [追加資料（練習問題の解説）](attached/physic2019lecture2_appendix.pdf)  
   
 第3回  
 * [授業資料](attached/physic2019lecture3.pdf)  
