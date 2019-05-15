@@ -15,6 +15,9 @@
 第4回  
 * [授業資料](attached/physic2019lecture4.pdf)  
   
+第5回  
+* [授業資料](attached/physic2019lecture5.pdf)  
+  
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
