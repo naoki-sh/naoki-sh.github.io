@@ -18,6 +18,12 @@
 第5回  
 * [授業資料](attached/physic2019lecture5.pdf)  
   
+第6回  
+* [授業資料](attached/physic2019lecture6.pdf)  
+  
+第7回  
+* [授業資料](attached/physic2019lecture7.pdf)  
+  
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
