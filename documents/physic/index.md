@@ -24,6 +24,10 @@
 第7回  
 * [授業資料](attached/physic2019lecture7.pdf)  
   
+練習問題  
+* [1~6回 練習問題総まとめ](attached/exercises.pdf)  
+* [1~6回 練習問題総まとめ 解答](attached/answer.pdf)  
+  
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
