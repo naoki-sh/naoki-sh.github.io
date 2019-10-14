@@ -6,7 +6,10 @@
 
 第2回  
 * [授業資料](attached/lecture2.pdf)  
-  
+
+第3回  
+* [授業資料](attached/lecture3.pdf)  
+
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
