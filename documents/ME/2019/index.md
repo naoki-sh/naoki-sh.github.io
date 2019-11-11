@@ -16,6 +16,9 @@
 第5回  
 * [授業資料](attached/lecture5.pdf)  
 
+第6回  
+* [授業資料](attached/lecture6.pdf)  
+
 ---
   
 |[TOP](https://naoki-sh.github.io/) | [back](../) |
