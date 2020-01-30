@@ -37,9 +37,15 @@
 第12回  
 * [授業資料](attached/lecture12.pdf)  
 
+第13回  
+* [授業資料](attached/lecture13.pdf)  
+
+第14回  
+* 第14回は練習問題まとめの解説を行いました。詳細は[追加資料](#追加資料)を参照。
+
 ---
 
-追加資料  
+### 追加資料  
 * [トランスデューサまとめ](attached/transducer.pdf)  
   練習問題まとめ  
   * [問題（１ページ刷り）](attached/exercise.pdf)  
