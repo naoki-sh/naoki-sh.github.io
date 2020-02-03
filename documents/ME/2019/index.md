@@ -1,6 +1,11 @@
 # 医用工学概論１
 ## 2019年度
 
+### お知らせ
+* 練習問題まとめ　解答の訂正
+  * 問題4-1 (2)の解答が0.2 [m]となっていましたが、正しくは- 0.2 [m]です。
+  * 以上の内容を[練習問題まとめ/解答](#追加資料)に反映させましたのでご確認ください。
+
 第1回  
 * [授業資料](attached/lecture1.pdf)  
 
@@ -50,8 +55,10 @@
   練習問題まとめ  
   * [問題（１ページ刷り）](attached/exercise.pdf)  
   * [問題（９ページ刷り）](attached/exercise_9up.pdf)  
-  * [解答（１ページ刷り）](attached/exercise_answer.pdf)  
-  * [解答（９ページ刷り）](attached/exercise_answer_9up.pdf)  
+  * [解答（１ページ刷り）](attached/exercise_answer_revise01.pdf)  
+  * [解答（９ページ刷り）](attached/exercise_answer_revise01_9up.pdf)  
+  訂正
+  * [解答（問題4-1）訂正](attached/exercise_answer_revise01-4-1.pdf)
 
 ---
   
