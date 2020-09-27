@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+# - title: "back"
+#    url: ../
+  # - title: "Tags"
+  #   url: /tags/
