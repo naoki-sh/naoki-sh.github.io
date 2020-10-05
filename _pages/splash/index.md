@@ -23,7 +23,7 @@ feature_row1:
 # Contents
 * [profile](./profile)  
 * [講義資料](./documents)  
-* ドローン関連まとめ
+* [メモ](./articles)  
 
 # Link
 * 水中ドローン海洋ごみ回収プロジェクト  

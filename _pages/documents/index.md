@@ -17,11 +17,11 @@ author_profile: false
 
 <div class="medium-12  columns" markdown="1">
 
-* [自然科学Ⅱ(物理学)](./documents/physics)  
+* [自然科学Ⅱ(物理学)](./physics)  
 * 医用工学概論Ⅰ  
-  * [2018](./documents/me2018)  
-  * [2019](./documents/me2019)  
-  * [2020](./documents/me2020)  
+  * [2018](./me2018)  
+  * [2019](./me2019)  
+  * [2020](./me2020)  
   
 ---
   

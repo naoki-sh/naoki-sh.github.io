@@ -17,11 +17,17 @@ author_profile: false
 
 ## お知らせ
 * 2020/09/28: 2020年度のページをオープンしました。
+* 2020/10/05: 第二回授業資料をアップロードしました。
 
 ## 第1回  
 * 授業資料  
   * [配布用](attached/lecture1_9up.pdf)  
   * [講義資料](attached/lecture1.pdf)  
+
+## 第2回  
+* 授業資料  
+  * [配布用](attached/lecture2_9up.pdf)  
+  * [講義資料](attached/lecture2_cmp.pdf)  
 
 ---
 
