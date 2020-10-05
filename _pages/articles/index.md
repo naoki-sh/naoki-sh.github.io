@@ -18,7 +18,7 @@ author_profile: false
 
 <div class="medium-12  columns" markdown="1">
 
-* [ROS](./ros)
+* [ROS](ros)
 * Raspberry Pi
 * Drones
 * Conputer Vision
