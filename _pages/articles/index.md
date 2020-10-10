@@ -19,6 +19,7 @@ author_profile: false
 <div class="medium-12  columns" markdown="1">
 
 * [ROS](/articles/ros)
+* [python](/articles/python)
 * Raspberry Pi
 * Drones
 * Conputer Vision

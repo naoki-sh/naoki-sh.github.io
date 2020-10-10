@@ -48,7 +48,7 @@ author_profile: false
 ### 使い方
 * 起動
 ```
-  rosrun rqt_bag rqt_bag bagfileのパス
+  $ rosrun rqt_bag rqt_bag bagfileのパス
 ```
   * rosノードなのでroscoreが必要。
   * 起動したら、topic名を右クリックとかでいろいろできる。
@@ -60,12 +60,24 @@ author_profile: false
 ### 使い方
 * トリミング
 ```
-  rosrun bagedit bagtrim.py (-s 開始時間) (-e 終了時間) bagfileのパス
+  $ rosrun bagedit bagtrim.py (-s 開始時間) (-e 終了時間) bagfileのパス
 ```
 * マージ
 ```
-  rosrun bagedit bagmerge.py (-o output_file) ベースのbagfileのパス マージするbagfileのパス
+  $ rosrun bagedit bagmerge.py (-o output_file) ベースのbagfileのパス マージするbagfileのパス
 ```
+
+# rosbagで保存したtopicをcsvで書き出す
+* rostocpic echoを使う。
+```
+  $ rostopic echo -b bagfile名.bag -p /topic名 > 出力ファイル.csv
+```
+
+### reference
+* [rosbag/commandline](http://wiki.ros.org/rosbag/Commandline)
+* [rqt_bag](http://wiki.ros.org/rqt_bag)
+* [bagedit](https://github.com/MHarbi/bagedit)
+* [ROSのbagファイルから特定トピックをcsv形式で出力する](https://yura2.hateblo.jp/entry/rosbag-to-csv)
 
 ---
   
