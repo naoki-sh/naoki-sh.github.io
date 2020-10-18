@@ -35,6 +35,12 @@ author_profile: false
   * [配布用](attached/lecture3_9up.pdf)  
   * [講義資料](attached/lecture3.pdf)  
 
+## 第4回  
+* 授業資料  
+  * [配布用](attached/lecture4_9up.pdf)  
+  * [まとめ & 練習問題](attached/lecture4_summary.pdf)  
+  * [講義資料](attached/lecture4.pdf)  
+
 ---
 
 ## 追加資料  
