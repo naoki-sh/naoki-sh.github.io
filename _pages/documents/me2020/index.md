@@ -21,6 +21,7 @@ author_profile: false
 * 2020/10/12: 第3回授業資料をアップロードしました。
 * 2020/10/18: 第4回授業資料をアップロードしました。
 * 2020/10/26: 第5回授業資料をアップロードしました。
+* 2020/11/12: 第6回授業資料をアップロードしました。
 
 ## 第1回  
 * 授業資料  
@@ -49,6 +50,11 @@ author_profile: false
   * [第４回復習](attached/lecture5_review.pdf)  
   * [講義資料](attached/lecture5_cmp.pdf)  
 
+## 第5回  
+* 授業資料  
+  * [配布用](attached/lecture6_handout.pdf)  
+  * [例題](attached/lecture6_examples.pdf)  
+  * [講義資料](attached/lecture6_cmp.pdf)  
 
 ---
 
