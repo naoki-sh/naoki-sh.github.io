@@ -14,7 +14,7 @@ author_profile: true
 ---
 # Profile
 * Research keywords  
-  aerial manipulation, multicopter, drone, underwater drone, mobile robot navigation
+  Drone, Underwater drone, aerial manipulation, mobile robot navigation, 
 ---
 
 # Publications  
