@@ -27,6 +27,7 @@ author_profile: false
 * 2020/11/12: 第6回授業資料をアップロードしました。
 * 2020/11/24: 第7回授業資料をアップロードしました。
 * 2020/11/30: 第8回授業資料をアップロードしました。
+* 2020/12/8: 第9回授業資料をアップロードしました。
 
 ## 第1回  
 * 授業資料  
@@ -71,6 +72,12 @@ author_profile: false
 * 授業資料  
   * [配布用](attached/lecture8_handout.pdf)   
   * [講義資料](attached/lecture8.pdf)  
+
+## 第9回  
+* 授業資料  
+  * [配布用](attached/lecture9_handout.pdf)   
+  * [講義資料](attached/lecture9.pdf)  
+
 
 ---
 
