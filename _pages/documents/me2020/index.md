@@ -64,7 +64,7 @@ author_profile: false
 * 授業資料  
   * [配布用](attached/lecture6_handout.pdf)  
   * [例題](attached/lecture6_examples.pdf)  
-  * [講義資料](attached/lecture6_cmp.pdf)  
+  * [講義資料](attached/lecture6.pdf)  
 
 ## 第7回  
 * 授業資料  
