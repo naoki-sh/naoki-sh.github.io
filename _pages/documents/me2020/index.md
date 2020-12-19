@@ -82,6 +82,8 @@ author_profile: false
   * [配布用](attached/lecture9_handout.pdf)   
   * [講義資料](attached/lecture9.pdf)  
 
+## 第10回
+* 第10回は第9回の資料を使用しましたので、配付資料はありません。
 
 ---
 
