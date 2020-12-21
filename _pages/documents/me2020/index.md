@@ -85,6 +85,10 @@ author_profile: false
 ## 第10回
 * 第10回は第9回の資料を使用しましたので、配付資料はありません。
 
+## 第11回  
+* 授業資料  
+  * [配布用](attached/lecture11_handout.pdf)   
+
 ---
 
 ## 追加資料  
