@@ -93,7 +93,10 @@ author_profile: false
 ## 第12回  
 * 授業資料  
   * [配布用](attached/lecture12_handout.pdf)   
-  
+
+## 第13回  
+* 授業資料  
+  * [配布用](attached/lecture13.pdf)   
 
 ---
 
