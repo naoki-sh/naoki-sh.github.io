@@ -63,10 +63,10 @@ author_profile: false
 * [授業資料](attached/lecture13f.pdf)  
   
 ## misc.  
-* [冬休みプリント 練習問題まとめ](attached/exercizef.pdf)  
- * [冬休みプリント 練習問題まとめ 解答](attached/exercize_ansf.pdf)  
-* [冬休みプリント 国家試験形式問題](attached/winter_vacf.pdf)  
- * [冬休みプリント 国家試験形式問題解答](attached/winter_vac_ansf.pdf)  
+* [冬休みプリント 練習問題まとめ](attached/winter_vac_B.pdf)  
+ * [冬休みプリント 練習問題まとめ 解答](attached/winter_vac_B_ans.pdf)  
+* [冬休みプリント 国家試験形式問題](attached/winter_vac_A.pdf)  
+ * [冬休みプリント 国家試験形式問題解答](attached/winter_vac_A_ans.pdf)  
   
 ---
 
