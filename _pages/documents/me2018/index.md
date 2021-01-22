@@ -41,7 +41,7 @@ author_profile: false
   
 ## 第7回  
 * [授業資料](attached/lecture7f.pdf)  
- * [第六回の練習問題](attached/answer7f.pdf)  
+ * [第六回の練習問題](attached/answer7fpdf.pdf)  
  * [電気回路の総復習プリント](attached/review7f.pdf)  
   
 ## 第8回  
