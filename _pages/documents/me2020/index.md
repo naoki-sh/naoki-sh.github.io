@@ -89,18 +89,30 @@ author_profile: false
 ## 第11回  
 * 授業資料  
   * [配布用](attached/lecture11_handout.pdf)   
+  * [講義資料](attached/lecture11.pdf)  
   
 ## 第12回  
 * 授業資料  
   * [配布用](attached/lecture12_handout.pdf)   
-
+  * [講義資料](attached/lecture12.pdf)  
+  
 ## 第13回  
 * 授業資料  
   * [配布用](attached/lecture13.pdf)   
+  * [講義資料](attached/lecture13.pdf)  
+
+## 第14回  
+* 授業資料  
+  * [配布用](attached/lecture14.pdf)   
+  * [講義資料](attached/lecture14.pdf)  
 
 ---
 
 ## 追加資料  
+* 例題 + 練習問題まとめ
+  * [例題と類題](attached/exercise_9up.pdf)
+  * [解答](attached/exercise_answer_9up.pdf)
+* トランスデューサまとめ
 
 ---
   
