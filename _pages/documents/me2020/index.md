@@ -33,6 +33,8 @@ author_profile: false
   * 第２回の資料の問題３において、100 μA=0.01 mAとなっていたのを修正しました。正しくは100μA = 0.1 mAです。
   * 第６回の資料の例題４において、問題の数値と解答の数値が異なっていたのを修正しました。
 * 2021/1/12: 第12回の授業資料をアップロードしました。
+* 2021/1/27: 第11 ~ 14回の資料を更新しました。
+* 2021/1/27: <font size="15" color="#ff0000">テスト範囲についての補足を追加しました。</font>
 
 ## 第1回  
 * 授業資料  
@@ -113,7 +115,9 @@ author_profile: false
   * [例題と類題](attached/exercise_9up.pdf)
   * [解答](attached/exercise_answer_9up.pdf)
 * トランスデューサまとめ
-
+  * [トランスデューサまとめ](attached/transducer.pdf)
+* テストについて
+  * [出題範囲まとめ](attached/transducer.pdf)
 ---
   
 |[TOP](/) | <a href="javascript:history.back()">back</a> |
