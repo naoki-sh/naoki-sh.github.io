@@ -101,11 +101,11 @@ author_profile: false
 ## 第13回  
 * 授業資料  
   * [配布用](attached/lecture13.pdf)   
-  * [講義資料](attached/lecture13.pdf)  
+  * [講義資料](attached/lecture13_cmp.pdf)  
 
 ## 第14回  
 * 授業資料  
-  * [配布用](attached/lecture14.pdf)   
+  * [配布用](attached/lecture14_handout.pdf)   
   * [講義資料](attached/lecture14.pdf)  
 
 ---
