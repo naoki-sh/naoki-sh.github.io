@@ -116,7 +116,7 @@ author_profile: false
   * [解答](attached/exercise_answer_9up.pdf)
 * トランスデューサまとめ
   * [トランスデューサまとめ](attached/transducer.pdf)
-* <font size="15" color="#ff0000">テストについて</font>
+* <font color="#ff0000">テストについて</font>
   * [出題範囲まとめ](attached/exam_info.pdf)  
   
 ---
