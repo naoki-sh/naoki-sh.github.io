@@ -117,7 +117,8 @@ author_profile: false
 * トランスデューサまとめ
   * [トランスデューサまとめ](attached/transducer.pdf)
 * テストについて
-  * [出題範囲まとめ](attached/exam_info.pdf)
+  * [出題範囲まとめ](attached/exam_info.pdf)  
+  
 ---
   
 |[TOP](/) | <a href="javascript:history.back()">back</a> |
