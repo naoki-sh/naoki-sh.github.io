@@ -34,7 +34,7 @@ author_profile: false
   * 第６回の資料の例題４において、問題の数値と解答の数値が異なっていたのを修正しました。
 * 2021/1/12: 第12回の授業資料をアップロードしました。
 * 2021/1/27: 第11 ~ 14回の資料を更新しました。
-<!--* 2021/1/27: <font size="15" color="#ff0000">テスト範囲についての補足を追加しました。</font>-->
+* 2021/1/27: <font size="15" color="#ff0000">テスト範囲についての補足を追加しました。</font>
 
 ## 第1回  
 * 授業資料  
@@ -117,7 +117,7 @@ author_profile: false
 * トランスデューサまとめ
   * [トランスデューサまとめ](attached/transducer.pdf)
 * テストについて
-  * [出題範囲まとめ](attached/transducer.pdf)
+  * [出題範囲まとめ](attached/exam_info.pdf)
 ---
   
 |[TOP](/) | <a href="javascript:history.back()">back</a> |
