@@ -120,7 +120,7 @@ author_profile: false
 * <font color="#ff0000">テストについて</font>
   * [出題範囲まとめ](attached/exam_info.pdf)  
 * <font color="#ff0000">再試験について</font>
-  * [出題範囲](reexam)
+  * [出題範囲](/documents/me2020/reexam)
   
 ---
   
