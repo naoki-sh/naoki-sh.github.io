@@ -15,15 +15,11 @@ author_profile: false
 
 # 再試験の出題範囲について
 ## 計算問題  
-* 下記のいずれかのうち、**キルヒホッフの問題**とその他２問、合計30点分を出題します。
-  * [**練習問題まとめ: 例題・練習問題1-3**](../attached/exercise_9up.pdf#page=2)  
-    * 直流回路の合成抵抗、消費電力、抵抗器における発熱量等問題  
+* 下記の３問、合計30点分を出題します。
   * [**練習問題まとめ: 例題・問題２-X**](../attached/exercise_9up.pdf#page=2)
     * キルヒホッフの法則を用いて連立方程式を解く問題（本試験で出したものの数値等が異なる類題）  
   * [**練習問題まとめ: 例題・問題７**](../attached/exercise_9up.pdf#page=6)
     * RLC直列回路のインピーダンスを求める問題  
-  * [**練習問題まとめ 例題・問題５-X**](../attached/exercise_9up.pdf#page=4)
-    * RC直列回路の時定数、及び電流の変化について問う問題  
   * [**練習問題まとめ 例題・問題４**](../attached/exercise_9up.pdf#page=4)
     * ひずみの計算とポアソン比  
   
@@ -33,9 +29,7 @@ author_profile: false
     * 生体計測における特異性について  
   * [**授業資料: 第７回 p. 31**](../attached/lecture7_cmp.pdf#page=32)
     * （バイポーラ）トランジスタとFETの違いについて  
-  * [**授業資料第１３回 p. 10**](../attached/lecture13_cmp.pdf#page=10)
-    * 記録表示装置の種類とそれぞれの特徴について  
-  * [**授業資料: 第１４回 p. 3**](../attached/lecture14.pdf#page=3)
+  * [**授業資料: 第１３回 p. 10**](../attached/lecture13_cmp.pdf#page=10)
     * 電気回路の安全対策（接地、保護絶縁）  
   * [**授業資料: 第８回 p. 15**](../attached/lecture8.pdf#page=16)
     * オペアンプ の特徴について  
@@ -86,7 +80,7 @@ author_profile: false
     * RC直列回路の過渡現象  
 
 ## 残り10点分
-* 下記の内容の中から選択形式で出題します。
+* 下記のいずれかの内容の中から選択形式で出題します。
   * [**追加資料トランスデューサ p. 6**](../attached/transducer.pdf#page=6)  
     * 物理量トランスデューサの種類と名称
   * [**第７回 p. 26**](../attached/lecture7_cmp.pdf#page=27)
