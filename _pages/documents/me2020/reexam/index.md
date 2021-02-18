@@ -16,18 +16,18 @@ author_profile: false
 # 再試験の出題範囲について
 ## 計算問題  
 * 下記のいずれかのうち、キルヒホッフの問題とその他２問、合計30点分を出題します。
-  * 練習問題まとめ [例題・練習問題1-3](attached/exercise_9up.pdf#page=2): 直流回路の合成抵抗、消費電力、抵抗器における発熱量等問題  
-  * 練習問題まとめ [例題・問題２-X](attached/exercise_9up.pdf#page=2): キルヒホッフの法則を用いて連立方程式を解く問題（本試験で出したものの数値等が異なる類題）  
-  * 練習問題まとめ [例題・問題7](attached/exercise_9up.pdf#page=6): RLC直列回路のインピーダンスを求める問題  
-  * 練習問題まとめ [例題・問題5-X](attached/exercise_9up.pdf#page=4): RC直列回路の時定数、及び電流の変化について問う問題  
-  * 練習問題まとめ [例題・問題4](attached/exercise_9up.pdf#page=4): ひずみの計算とポアソン比  
+  * 練習問題まとめ [例題・練習問題1-3](../attached/exercise_9up.pdf#page=2): 直流回路の合成抵抗、消費電力、抵抗器における発熱量等問題  
+  * 練習問題まとめ [例題・問題２-X](../attached/exercise_9up.pdf#page=2): キルヒホッフの法則を用いて連立方程式を解く問題（本試験で出したものの数値等が異なる類題）  
+  * 練習問題まとめ [例題・問題7](../attached/exercise_9up.pdf#page=6): RLC直列回路のインピーダンスを求める問題  
+  * 練習問題まとめ [例題・問題5-X](../attached/exercise_9up.pdf#page=4): RC直列回路の時定数、及び電流の変化について問う問題  
+  * 練習問題まとめ [例題・問題4](../attached/exercise_9up.pdf#page=4): ひずみの計算とポアソン比  
   
 ## 筆記問題
 * 下記のいずれかのうち、３問20点分を出題いたします。
-  * 授業資料[第２回 p. 6](attached/lecture2_cmp.pdf#page=6) 生体計測における特異性について  
-  * 授業資料[第７回 p. 31](attached/lecture7_cmp.pdf#page=31)（バイポーラ）トランジスタとFETの違いについて  
-  * 授業資料[第１３回 p. 10](attached/lecture13_cmp.pdf#page=10) 記録表示装置の種類とそれぞれの特徴について  
-  * 授業資料[第１４回 p.  8](attached/lecture14.pdf#page=8) 電気回路の安全対策（接地、保護絶縁）  
+  * 授業資料[第２回 p. 6](../attached/lecture2_cmp.pdf#page=6) 生体計測における特異性について  
+  * 授業資料[第７回 p. 31](../attached/lecture7_cmp.pdf#page=31)（バイポーラ）トランジスタとFETの違いについて  
+  * 授業資料[第１３回 p. 10](/_pages/documents/me2020/attached/lecture13_cmp.pdf#page=10) 記録表示装置の種類とそれぞれの特徴について  
+  * 授業資料[第１４回 p.  8](/documents/me2020/attached/lecture14.pdf#page=8) 電気回路の安全対策（接地、保護絶縁）  
   * 授業資料[第８回 p. 15]() オペアンプ の特徴について  
   * 追加資料[トランスデューサ] 電極を用いた計測について  
   
