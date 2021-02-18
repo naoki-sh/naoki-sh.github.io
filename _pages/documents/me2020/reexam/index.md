@@ -86,7 +86,7 @@ author_profile: false
     * RC直列回路の過渡現象  
 
 ## 残り10点分
-*  下記の内容の中から選択形式で出題します。
+* 下記の内容の中から選択形式で出題します。
   * [**追加資料トランスデューサ p. 6**](../attached/transducer.pdf#page=6)  
     * 物理量トランスデューサの種類と名称
   * [**第７回 p. 26**](../attached/lecture7_cmp.pdf#page=27)
