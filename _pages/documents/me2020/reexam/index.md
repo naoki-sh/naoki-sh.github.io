@@ -32,7 +32,7 @@ author_profile: false
     * 生体計測における特異性について  
   * [**授業資料: 第７回 p. 31**](../attached/lecture7_cmp.pdf#page=32)
     * （バイポーラ）トランジスタとFETの違いについて  
-  * [**授業資料: 第１３回 p. 10**](../attached/lecture13_cmp.pdf#page=10)
+  * [**授業資料: 第１４回 p. 10**](../attached/lecture14.pdf#page=10)
     * 電気回路の安全対策（接地、保護絶縁）  
   * [**授業資料: 第８回 p. 15**](../attached/lecture8.pdf#page=16)
     * オペアンプ の特徴について  
