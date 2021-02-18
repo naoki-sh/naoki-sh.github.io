@@ -16,15 +16,15 @@ author_profile: false
 # 再試験の出題範囲について
 ## 計算問題  
 * 下記のいずれかのうち、**キルヒホッフの問題**とその他２問、合計30点分を出題します。
-  * 練習問題まとめ [例題・練習問題1-3](../attached/exercise_9up.pdf#page=2)  
+  * [**練習問題まとめ: 例題・練習問題1-3**](../attached/exercise_9up.pdf#page=2)  
     * 直流回路の合成抵抗、消費電力、抵抗器における発熱量等問題  
-  * 練習問題まとめ [例題・問題２-X](../attached/exercise_9up.pdf#page=2)
+  * [**練習問題まとめ: 例題・問題２-X**](../attached/exercise_9up.pdf#page=2)
     * キルヒホッフの法則を用いて連立方程式を解く問題（本試験で出したものの数値等が異なる類題）  
-  * 練習問題まとめ [例題・問題7](../attached/exercise_9up.pdf#page=6)
+  * [**練習問題まとめ: 例題・問題７**](../attached/exercise_9up.pdf#page=6)
     * RLC直列回路のインピーダンスを求める問題  
-  * 練習問題まとめ [例題・問題5-X](../attached/exercise_9up.pdf#page=4)
+  * [**練習問題まとめ 例題・問題５-X**](../attached/exercise_9up.pdf#page=4)
     * RC直列回路の時定数、及び電流の変化について問う問題  
-  * 練習問題まとめ [例題・問題4](../attached/exercise_9up.pdf#page=4)
+  * [**練習問題まとめ 例題・問題４**](../attached/exercise_9up.pdf#page=4)
     * ひずみの計算とポアソン比  
   
 ## 筆記問題
