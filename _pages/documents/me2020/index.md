@@ -119,6 +119,8 @@ author_profile: false
   * [トランスデューサまとめ](attached/transducer.pdf)
 * <font color="#ff0000">テストについて</font>
   * [出題範囲まとめ](attached/exam_info.pdf)  
+* <font color="#ff0000">再試験について</font>
+  * [出題範囲](reexam)
   
 ---
   
