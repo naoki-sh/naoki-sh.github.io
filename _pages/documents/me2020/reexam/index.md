@@ -25,9 +25,9 @@ author_profile: false
 ## 筆記問題
 * 下記のいずれかのうち、３問20点分を出題いたします。
   * 授業資料[第２回 p. 6](../attached/lecture2_cmp.pdf#page=6) 生体計測における特異性について  
-  * 授業資料[第７回 p. 31](../attached/lecture7_cmp.pdf#page=31)（バイポーラ）トランジスタとFETの違いについて  
+  * 授業資料[第７回 p. 31](/_pages/attached/lecture7_cmp.pdf#page=31)（バイポーラ）トランジスタとFETの違いについて  
   * 授業資料[第１３回 p. 10](/_pages/documents/me2020/attached/lecture13_cmp.pdf#page=10) 記録表示装置の種類とそれぞれの特徴について  
-  * 授業資料[第１４回 p.  8](/documents/me2020/attached/lecture14.pdf#page=8) 電気回路の安全対策（接地、保護絶縁）  
+  * 授業資料[第１４回 p.  8](/_pages/documents/me2020/attached/lecture14.pdf#page=8) 電気回路の安全対策（接地、保護絶縁）  
   * 授業資料[第８回 p. 15]() オペアンプ の特徴について  
   * 追加資料[トランスデューサ] 電極を用いた計測について  
   
