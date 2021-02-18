@@ -66,14 +66,14 @@ author_profile: false
   * [**追加資料トランスデューサ p. 7**](../attached/transducer.pdf#page=7)
     * 化学量トランスデューサの種類と名称 
   * [**第９回 pp. 6 - 7**](../attached/lecture9.pdf#page=6)
-    * 論理回路素子と心理値表  
+    * 論理回路素子と真理値表  
   * [**第９回 p. 17**](../attached/lecture9.pdf#page=17)
     * AD変換・サンプリング定理  
   * [**第９回 pp. 21 - 23**](../attached/lecture9.pdf#page=21)
     * 変調方式の種類と変調後の波形  
   * [**第１３回 p. 15**](../attached/lecture13_cmp.pdf#page=15)
     * コンピュータの５大要素、入出力装置  
-  * [**第１４回 p. 9**](../attached/lecture14.pdf#page=9)
+  * [**第１４回 p. 4(9)**](../attached/lecture14.pdf#page=4)
     * 装着部位による正常時患者漏れ電流の許容値（B, BF, CF型）  
   * [**第１４回 p. 7(14)**](../attached/lecture14.pdf#page=7)
     * 非常電源の種類と違い  
