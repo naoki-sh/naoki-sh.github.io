@@ -16,11 +16,9 @@
 title: Naoki Shirakura's web page
 subtitle: 
 #logo: "/assets/images/logo-robotics-lab-alpha.png"
-email: shirakura.naoki.se8@is.naist.jp
+email: shirakura.naoki【＠】aist.go.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Shirakura's webpage.
 twitter_username: username
 github_username: naoki-sh
 minimal_mistakes_skin: air
@@ -62,7 +60,7 @@ plugins:
 author:
   name   : "Naoki Shirakura"
   avatar : "/assets/images/shirakura.png"
-  bio    : "Ph.D student of NAIST robotics lab."
+  bio    : "Postdoctoral researcher of National Institute of Advanced Science and Technology (AIST)"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
